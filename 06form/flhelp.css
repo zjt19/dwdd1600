@@ -158,7 +158,7 @@ div.c-gallery figcaption {
 .fform label, .fform select, .fform [type=text], .fform [type=tel], .fform textarea, .fform [type=email] {
     display: block;
 }
-.fform [type=text], .fform [type=tel], .fform select, .fform textarea, .fform [type=submit]{
+.fform [type=text], .fform [type=tel], .fform [type=email], .fform select, .fform textarea, .fform [type=submit]{
     border: solid 1px #3e4746;
     padding: .3rem;
     width: 250px;
